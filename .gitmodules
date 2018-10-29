@@ -1,0 +1,6 @@
+[submodule "ci_tut"]
+	path = ci_tut
+	url = https://github.com/ec-wagner/ci_tut
+[submodule "subrepo_1"]
+	path = subrepo_1
+	url = https://github.com/ec-wagner/ci_tut
